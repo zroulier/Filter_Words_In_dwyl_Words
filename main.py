@@ -12,7 +12,7 @@ import shutil
 
 INPUT_FILE = 'words.txt'
 OUTPUT_FILE = 'data.csv'
-API_KEY = 'f5d9fd44-6ab6-4b32-af6a-f6e75d642ad5'
+API_KEY = ''
 API_URL = 'https://www.dictionaryapi.com/api/v3/references/collegiate/json/{}?key={}'
 
 ACCEPTED_POS = {
